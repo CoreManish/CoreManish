@@ -1,8 +1,8 @@
 ### @coreManish
 - 👋 Hi, I’m Manish
-- 👀 I’m interested in Data Science and Machine Leraning
-- 🌱 I’m currently learning Programming and Data science at IITM
+- 👀 I’m grinding myself to evaluate world by Machine Leraning, LLM, Computer vision
+- 🌱 currently at IIST
 - 💞️ Languages- C, JavaScript, Python
-- 📫 Core Skill- DBMS, DSA, Flask
+- 📫 Core Skill- DBMS, DSA, Flask, computer vision
 - 🌐 Resume : [Go](https://coremanish.github.io/)
-- ⚽ Interact with me : [Touch](https://www.linkedin.com/in/manish-kumar-b30568149/)
+- ⚽ Interact with me : [Touch](https://www.linkedin.com/in/manishky/)
